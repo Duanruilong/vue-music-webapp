@@ -8,10 +8,6 @@
 
 - 推荐使用手机预览，电脑在 Chrome 调试模式下食用效果更佳，开启调试模式的手机模式后，如果不能滚动，刷新一下页面即可
 
-:satisfied: 源码地址：[vue-music-webapp](https://github.com/CaiJinyc/vue-music-webapp)，欢迎 star 和 fork 哦~
-
->  如果你觉得我做的不错的话，我就厚着脸皮求个 **star** ⭐️ 哈，**star** 是对我最大的鼓励（老脸一红）
-
 ## 预览
 
 图片虽然压缩过了，但是几张加载一起还是有 3MB 左右，所以请耐心等待一下啦:joy:。感觉不错的可以去上面 :point_up:的地址体验一下呦~
@@ -150,9 +146,12 @@
 
 ## 最后
 
-最后的最后当然是厚着脸皮的再求个 star 啦，如果觉得我的项目还不错的话 :clap:，就给个 star :star: 鼓励一下吧~
+如果觉得我的项目还不错的话 :clap:，就给个 star :star: 鼓励一下吧~
 
 ## Build Setup
+克隆代码到本地之后，需要运行 [NeteaseCloudMusicApi](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi)，来起一个音乐的 API 接口。
+
+如果需要在服务器上搭建的话就需要将 API 放到自己的服务器上面。
 
 ```bash
 # install dependencies
